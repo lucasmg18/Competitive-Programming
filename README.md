@@ -1,6 +1,6 @@
 # Competitive-Programming
 This repository contains accepted solutions to problems offered in diverse online judges used for competitive programming competitions.  
-The solutions to some of the problems offered in each online judge are available in the corresponding folder of this repository.
+The solutions to some of the problems offered in each online judge are available in the corresponding folder of this repository.  
 All the solutions have been tested and accepted as valid solutions in their corresponding online judge.  
 
 
