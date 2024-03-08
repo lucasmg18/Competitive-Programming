@@ -17,6 +17,11 @@ All the solutions have been tested and accepted as valid solutions in their corr
   
 ### CodeForces  
 - Link to the website:  [https://codeforces.com/](https://codeforces.com/)   
-- Folder in the repository:  [CodeForces](https://github.com/lucasmg18/Competitive-Programming/tree/main/CodeForces)  
+- Folder in the repository:  [CodeForces](https://github.com/lucasmg18/Competitive-Programming/tree/main/CodeForces)
+
+
+### HackerRank  
+- Link to the website:  [https://www.hackerrank.com/](https://www.hackerrank.com/)  
+- Folder in the repository:  [HackerRank](https://github.com/lucasmg18/Competitive-Programming/tree/main/HackerRank)  
 
 
